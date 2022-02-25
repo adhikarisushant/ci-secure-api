@@ -1,0 +1,24 @@
+.centredDiv {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.plainList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.wrap {
+    max-width: 1024px;
+    margin: 5rem auto;
+    padding: 2rem;
+    background: #fff;
+    text-align: center;
+    border: 1px solid #efefef;
+    border-radius: 0.5rem;
+    position: relative;
+}
